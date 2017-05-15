@@ -1,6 +1,5 @@
 # hello-world
-lance's first repository
+
+Lance's first GitHub repository
 
 Hi there ! human beings, welcome !
-
-
