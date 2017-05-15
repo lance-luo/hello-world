@@ -1,6 +1,6 @@
 # hello-world
 lance's first repository
 
-Hi there ! human beings
+Hi there ! human beings, welcome !
 
 
