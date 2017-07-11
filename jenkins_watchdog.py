@@ -6,7 +6,7 @@ import sys
 
 def main(argv):
     # My code here
-	status = os.popen('service jenkins status').readline())
+	status = os.popen('service jenkins status').readline()
 	print status
 
 if __name__ == "__main__":
